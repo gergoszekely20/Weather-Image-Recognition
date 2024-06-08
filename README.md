@@ -71,8 +71,8 @@ After some tests our conclusion is that the best accuracy is when we set the rad
 
 
 ### Final result
- ![image](images/all.jpeg)
+ ![image](Images/all.jpeg)
  
- ![image](images/accuracy_all.jpeg)
+ ![image](Images/accuracy_all.jpeg)
  
 -our final result is combining hsv, rgb, and frequency domain
