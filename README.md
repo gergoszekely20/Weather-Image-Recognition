@@ -1,7 +1,7 @@
 # Experiments
 
 ### only with rgb
- ![image](images/rgb.jpeg)
+ [image](images/rgb.jpeg)
 
  ![image](images/rgb_acc.jpeg)
  
